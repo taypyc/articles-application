@@ -1,4 +1,6 @@
-# News application based on <https://jsonplaceholder.typicode.com> API
+# News application
+
+This application is based on <https://jsonplaceholder.typicode.com> API.
 
 The application is made using the ReactJS library + TypeScript programming language. The following tools were used: AXIOS for API requests, React Router for routing the application, Redux for managing the state of the application and its requests, Redux Persist for saving data in Local Storage, React Hook Form for building and validating the form. The MUI component library was also used for the UI.
 
