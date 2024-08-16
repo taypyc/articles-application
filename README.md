@@ -10,7 +10,9 @@ You can find the demo online follow the link: <https://articles-application-demo
 
 The application code is for your attention above.
 
-## Can also be run locally. For this you need:
+## Can also be run locally.
+
+For this you need:
 
 1. Clone the repository to your computer (by executing the command: git clone <git@github.com>:taypyc/articles-application.git in the terminal).
 2. Run the application using the <b>npm run start</b> command.
