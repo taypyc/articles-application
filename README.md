@@ -10,7 +10,7 @@ You can find the demo online follow the link: <https://articles-application-demo
 
 The application code is for your attention above.
 
-## Can also be run locally.
+## Can also be run locally
 
 For this you need:
 
